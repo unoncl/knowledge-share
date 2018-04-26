@@ -256,9 +256,9 @@ Use images only when they provide useful visual explanations of information that
 
 ## <u>Documentation versioning</u> ##
 
-Documentation versioning is the process of assigning unique version numbers to unique states of the documentation. Within a given version number category, these numbers are generally assigned in increasing order and correspond to new developments in the documentation.
+Documentation versioning is the process of assigning the unique version numbers to the unique states of the documentation. Within a given version number category, these numbers are generally assigned in increasing order and correspond to the new developments in the documentation.
 
-Use the three levels of numbering to identify the releases, such as *version x.x.x*. The first level digit denotes each release version, while the second and third level digit indicates the draft state of the release version, for example 1.1.1.
+Use the three levels of numbering to identify the release, such as *version x.x.x*. The first level digit denotes each release version, while the second and third level digit indicates the draft state of the release version, for example 1.1.1.
 
 Always set the second and third level digit as zero to denote the official release version, for example 1.0.0, 2.0.0, 5.0.0, etc.
 
